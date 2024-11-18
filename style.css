@@ -1,0 +1,36 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 40pt;
+    background-color: rgb(228, 175, 175);
+    border: 3px solid black;
+    border-radius: 8px;
+}
+
+h1:hover{
+    background-color: green;
+}
+
+p {
+    text-indent: 10%; 
+    text-align: justify;
+    font-family: Verdana;
+    
+}
+
+button{
+    color:forestgreen;
+    background-color: blueviolet;
+}
+
+a{
+    font-family: 'Trebuchet MS';
+    text-decoration: none;
+    border: 2px solid black;
+    color: white;
+    background-color: blue;
+}
+
+a:hover{
+    background-color: red;
+}
